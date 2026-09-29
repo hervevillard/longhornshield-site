@@ -33,7 +33,7 @@
       "head_sampling_rate": 1,
       "persist": true
     },
-
+},
   // ---- Optional extras, uncomment when you set them up ----
   //
   // Cloudflare Email Sending (requires the $5/month Workers Paid plan):
